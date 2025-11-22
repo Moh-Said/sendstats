@@ -116,7 +116,7 @@ export const Dashboard: React.FC = () => {
         </p>
         <div className="flex justify-center items-center">
           <a
-            href="https://github.com/example/repo"
+            href="https://github.com/Moh-Said/sendstats"
             target="_blank"
             rel="noopener noreferrer"
             className="flex gap-1.5 p-2 text-gray-400 hover:text-white transition-colors cursor-pointer"
